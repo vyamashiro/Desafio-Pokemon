@@ -11,10 +11,10 @@
 </ul>
 
 <h2>Como usar</h2>
-<p>Para iniciar a aplicação basta baixar o repositório, acessar o terminal e digitar o código</p>
+<p>Para iniciar a aplicação basta baixar o repositório, acessar o terminal e digitar o código
 <code>npm start</code>
+</p>
 
-<br>
 <figure>
     <img src="print-versao01.jpg">
 </figure>
