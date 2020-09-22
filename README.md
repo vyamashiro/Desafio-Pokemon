@@ -15,5 +15,5 @@
 <code>npm start</code>
 
 <figure>
-    <img src="print-versao1.jpg">
+    <img src="print-versao01.jpg">
 </figure>
